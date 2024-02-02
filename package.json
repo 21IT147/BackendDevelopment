@@ -1,0 +1,17 @@
+{
+  "name": "videochatbackend",
+  "version": "1.0.0",
+  "description": "This is Backend For Online Video Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Video",
+    "Call",
+    "Video-Call",
+    "Node"
+  ],
+  "author": "KevalSheth",
+  "license": "ISC"
+}
