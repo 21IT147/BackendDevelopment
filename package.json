@@ -4,7 +4,8 @@
   "description": "This is Backend For Online Video Chat Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
   },
   "keywords": [
     "Video",
@@ -13,5 +14,9 @@
     "Node"
   ],
   "author": "KevalSheth",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
 }
